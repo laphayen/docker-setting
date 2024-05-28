@@ -1,2 +1,2 @@
-# Pharmacy-Recommendation
-A pharmacy recommendation service using Kakao Address Search API and public data based on Spring framework.
+# docker-setting
+Set up Docker environment for MariaDB and MySQL
